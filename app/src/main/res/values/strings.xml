@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">contact Random</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="order_by">Ordenar por:</string>
+    <string name="age">Edad</string>
+    <string name="lastname">Apellido</string>
+    <string name="filter_bay">Filtar por:</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="none">Ninguno</string>
+    <string name="process">Procesar</string>
+    <string name="contactas">Contactos:</string>
+    <string name="filter">filtrar</string>
+    <string name="mail">correo</string>
+    <string name="call">llamar</string>
+    <string name="download_image">Descargar Imagen</string>
+    <string name="email_error">No posee una app para correo</string>
+    <string name="dowload_error">No se pudo realizar la descarga</string>
+    <string name="dowload_succces">Se descargo correctamente</string>
+</resources>
